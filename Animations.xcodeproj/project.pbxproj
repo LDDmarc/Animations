@@ -59,8 +59,8 @@
 				C3329F982886B5AC0055B2BC /* ContentView.swift */,
 				C3329FA42886B7E70055B2BC /* ImplicitAnimations.swift */,
 				C3B2D4DD288709B30085D820 /* GeometryEffectAnimations.swift */,
-				C3329F9A2886B5AC0055B2BC /* Assets.xcassets */,
 				C3329F9C2886B5AC0055B2BC /* Preview Content */,
+				C3329F9A2886B5AC0055B2BC /* Assets.xcassets */,
 			);
 			path = Animations;
 			sourceTree = "<group>";
