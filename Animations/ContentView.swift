@@ -24,6 +24,12 @@ struct ContentView: View {
                 Text("GeometryEffect")
             }
             
+            NavigationView {
+                JustCoolAnimations()
+            }
+            .tabItem {
+                Text("Cool ones")
+            }
         }
     }
 }

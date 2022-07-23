@@ -12,6 +12,7 @@
 		C3329F9B2886B5AC0055B2BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3329F9A2886B5AC0055B2BC /* Assets.xcassets */; };
 		C3329F9E2886B5AC0055B2BC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3329F9D2886B5AC0055B2BC /* Preview Assets.xcassets */; };
 		C3329FA52886B7E70055B2BC /* ImplicitAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3329FA42886B7E70055B2BC /* ImplicitAnimations.swift */; };
+		C36E0B85288BEC3D008BEAC8 /* JustCoolAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = C36E0B84288BEC3D008BEAC8 /* JustCoolAnimations.swift */; };
 		C3B2D4DE288709B30085D820 /* GeometryEffectAnimations.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3B2D4DD288709B30085D820 /* GeometryEffectAnimations.swift */; };
 /* End PBXBuildFile section */
 
@@ -22,6 +23,7 @@
 		C3329F9A2886B5AC0055B2BC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C3329F9D2886B5AC0055B2BC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C3329FA42886B7E70055B2BC /* ImplicitAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplicitAnimations.swift; sourceTree = "<group>"; };
+		C36E0B84288BEC3D008BEAC8 /* JustCoolAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JustCoolAnimations.swift; sourceTree = "<group>"; };
 		C3B2D4DD288709B30085D820 /* GeometryEffectAnimations.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeometryEffectAnimations.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -59,6 +61,7 @@
 				C3329F982886B5AC0055B2BC /* ContentView.swift */,
 				C3329FA42886B7E70055B2BC /* ImplicitAnimations.swift */,
 				C3B2D4DD288709B30085D820 /* GeometryEffectAnimations.swift */,
+				C36E0B84288BEC3D008BEAC8 /* JustCoolAnimations.swift */,
 				C3329F9C2886B5AC0055B2BC /* Preview Content */,
 				C3329F9A2886B5AC0055B2BC /* Assets.xcassets */,
 			);
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C3329FA52886B7E70055B2BC /* ImplicitAnimations.swift in Sources */,
+				C36E0B85288BEC3D008BEAC8 /* JustCoolAnimations.swift in Sources */,
 				C3B2D4DE288709B30085D820 /* GeometryEffectAnimations.swift in Sources */,
 				C3329F992886B5AC0055B2BC /* ContentView.swift in Sources */,
 				C3329F972886B5AC0055B2BC /* AnimationsApp.swift in Sources */,
